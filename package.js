@@ -6,9 +6,9 @@ Package.describe({
 });
 
 Npm.depends({
-    'cheerio': '0.19.0',
-    'request': '2.54.0',
-    'iconv': '2.1.6'
+    'cheerio': '0.22.0',
+    'request': '2.75.0',
+    'iconv': '2.2.1'
 });
 
 Package.on_use(function (api) {
