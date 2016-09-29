@@ -7,7 +7,7 @@ Metadata and images crawler for Meteor. Just feed it with an url and it will ret
 Just run:
 
 ``` sh
-$ meteor add simple-metacrawler
+$ meteor add bitomule:simple-metacrawler
 ```
 
 ##  How to
